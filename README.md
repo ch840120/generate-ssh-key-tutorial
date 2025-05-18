@@ -1,6 +1,7 @@
 # 🔐 ssh-key-notes
 🔐 建立 GitHub SSH 金鑰筆記（適用於 macOS / Linux / WSL）<br>
-使用 SSH 金鑰，可以更安全、方便地與 GitHub 建立連線，不必每次輸入帳號密碼！
+使用 SSH 金鑰，可以更安全、方便地與 GitHub 建立連線，不必每次輸入帳號密碼！<br>
+✅ 備註：下列指令請在 Git Bash 中執行
 
 ## 📌 步驟 1：檢查本機是否已有 SSH 金鑰
 
